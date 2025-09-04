@@ -3,18 +3,22 @@ sidebar_position: 3
 ---
 
 # 环境搭建
+
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/wMtnoAbsfbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="415" src="//player.bilibili.com/player.html?aid=967781542&bvid=BV13p4y1y7BW&cid=178725350&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## 快速初始化
+
 我们推荐直接使用脚手架，只需几条简单指令，即可快速生成项目（npm >=6.1.0）:
 
 查看`node.js`版本:
+
 ```bash
 node -v
 ```
 
 查看`npm`版本:
+
 ```bash
 npm -v
 ```
@@ -26,11 +30,13 @@ npm i
 ```
 
 启动项目:
+
 ```bash
 npm run dev
 ```
 
 目录结构:
+
 ```
 egg-project
 ├── package.json
@@ -71,5 +77,4 @@ egg-project
         └── home.test.js
 ```
 
-
-<a href="https://www.vultr.com/?ref=8371895-6G">![](./images/banner_1.png)</a>
+<a href="https://www.vultr.com/?ref=9634529-9J">![](./images/banner_1.png)</a>
