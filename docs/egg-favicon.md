@@ -51,4 +51,6 @@ config.siteFile = {
 注意：如果你想用方法二以读取本地文件的方式修改，那就把`favicon.ico`图标图片放在项目根目录下，如下图：
 ![eggjs-favicon.ico](https://i.loli.net/2020/01/31/nA7XtExrlbzKWH1.png)
 
+<img src="https://raw.githubusercontent.com/darrenliuwei/darrenliuwei/main/online_class.png" width="420" />
+
 <a href="https://www.vultr.com/?ref=9634529-9J">![](./images/banner_1.png)</a>
